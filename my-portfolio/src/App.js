@@ -4,8 +4,7 @@ import About from "./components/About";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
-import Testimonials from "./components/Testimonials"
-
+import Contact from "./components/Contact";
 export default function App() {
   return (
     <main className="text-yellow-700 bg-white-100 body-font">
@@ -13,8 +12,8 @@ export default function App() {
            <About />
            <Projects/>
            <Skills />
-           <Testimonials />
-\
+           <Contact />
+
     </main>
   );
 }

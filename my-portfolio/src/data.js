@@ -23,6 +23,7 @@ export const projects = [
     image: "./yipyip (4).gif",
     link: "",
   },
+  
 ];
 
 export const testimonials = [
@@ -43,10 +44,10 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
+  "C++",
+  "Python",
+  "Assembler",
+  "HTML ",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Javascript",
 ];
